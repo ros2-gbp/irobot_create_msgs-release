@@ -2,8 +2,13 @@
 Changelog for package irobot_create_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.1.0 (2022-09-15)
+------------------
+* rename DockServo action into Dock and Dock msg into DockStatus
+* Contributors: Alberto Soragna
+
+2.0.0 (2022-07-01)
+------------------
 
 1.2.4 (2022-03-09)
 ------------------
